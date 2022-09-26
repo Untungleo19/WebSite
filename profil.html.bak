@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<body>
+<table border="1">
+   <thead>
+			<tr>
+				<th colspan="4" style="background-color:yellow;">UNTUNG PERSONAL WEB SITE</th>
+				<th rowspan="2"> <a href="url"><img src="logoutdi.jpg" height="100" width="100"/></a></th>
+			</tr>
+			<tr>
+				<th> <a href="index.html">Home </a></th>
+				 <th> Profil </th>
+				 <th <a href="galery.html">Galery</a></th>
+				 <th>Lain-lain</th>
+			</tr>
+			</tr>
+   </thead>
+   <tbody>
+		   <tr>
+			 <td rowspan="7"></td>
+			 <td colspan="3" rowspan="7">
+			 <p>Identitas saya :</p>
+			 <p>Nama : Untung Leo</p>
+			 <p>NIM  : 215410022</P>
+			 </td>
+			 <td> <a href="https://www.utdi.ac.id">www.utdi.ac.id</td>
+		   </tr>
+		   <tr>
+			 <td> <a href="https://if.utdi.ac.id/wp/">if.utdi.ac.id</td>
+		   </tr> 
+		   <tr>
+			 <td> <a href="https://acc.akakom.ac.id/">acc.akakom.ac.id</td>
+		   </tr> 
+		   <tr>
+			 <td> <a href="https://ypwb.co.id/">ypwb.co.id</td>
+		   </tr>
+		   <tr>
+			 <td> <a href="https://perpus.utdi.ac.id/site/">perpus.utdi.ac.id</td>
+		   </tr>
+			<tr>
+			 <td> <a href="https://siakad.utdi.ac.id/">siakad.utdi.ac.id</td>
+		   </tr>
+		   <tr>
+			 <td> <a href="https://pmb.utdi.ac.id/">pmb.utdi.ac.id</td>
+		   </tr>
+   </tbody>
+   <tfoot>
+   <tr>
+     <td colspan="5" align="center" style="color:red;">Copyright - UntungLeo</td>
+   </tr>
+   </tfoot>
+   </table>
+   </body>
+   </html>
